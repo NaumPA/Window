@@ -1,0 +1,28 @@
+         QMainWindow{
+            background: #AFEEEE;
+         }
+         QLaibel{
+            font-size: 44px;
+         }
+         QLaibel#lbl{
+            font-size: 10px;
+         }
+         QLaibel#lbl_sw{
+            font-size: 30px;
+         }
+         QPushButton{
+            font-size: 24px;
+            background: #FFB02E;
+            border:1px;
+            border-radius: 5px;
+         }
+         QPushButton:hover{
+            font-size:30px;
+            background:#D5713F;
+            border-radius: 20px;
+
+         }
+         QLineEdit{
+            font-size:25px;
+         }
+
