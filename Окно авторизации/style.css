@@ -1,0 +1,27 @@
+.QWidget{
+   background: #4a90eb;
+}
+
+.QLabel{
+   font-size: 13px;
+
+}
+
+.QPushButton{
+   font-size: 24px;
+   background: #1d967c;
+   border:1px;
+   border-radius: 15px;
+}
+
+.QPushButton:hover{
+   font-size:20px;
+   background:#3880ad;
+   border-radius: 15px;
+
+}
+
+.QLineEdit{
+   font-size:20px;
+   border-radius: 15px;
+}
